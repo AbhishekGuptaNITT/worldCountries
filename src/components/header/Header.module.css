@@ -1,0 +1,12 @@
+.header{
+    background-color: #38023B;
+    color: whitesmoke;
+    padding:1px 15px;
+}
+.header h1{
+    display: inline-block;
+}
+.header h2{
+    display: inline-block;
+    margin-left: 25px;
+}

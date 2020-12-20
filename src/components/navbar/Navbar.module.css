@@ -1,0 +1,10 @@
+.nav{
+    padding: 10px 20px;
+    background: #CEFDFF;
+    color:black;
+    justify-content: center;
+}
+.nav button{
+    padding:10px 20px;
+    cursor: pointer;
+}

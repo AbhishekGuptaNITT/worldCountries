@@ -1,0 +1,27 @@
+.output{
+    padding:20px 40px;
+    background-color: black;
+    color: skyblue;
+    margin:35px;
+}
+.output table{
+    width: 100%;
+}
+.output td{
+    text-align: justify;
+}
+.output th{
+    background-color: blueviolet;
+    color: cornsilk;
+}
+.pagination{
+    text-align: center;
+}
+.pagination span{
+    color: white;
+    background-color: steelblue;
+    padding: 10px 20px;
+    display: inline-block;
+    margin: 15px 10px;
+    cursor: pointer;
+}
